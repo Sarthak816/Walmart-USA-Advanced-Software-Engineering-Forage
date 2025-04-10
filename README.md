@@ -9,5 +9,3 @@ Designed a UML class diagram for a data processor, considering different operati
 
 Created an entity relationship diagram to design a new database accounting for all requirements provided by Walmart’s pet department.
 
-My Certificate of Completion
-https://drive.google.com/file/d/10lPCkoR15b32FByqqbZqdDFQ5V7Lwbk1/view?usp=sharing
